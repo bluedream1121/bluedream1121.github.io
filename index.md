@@ -29,7 +29,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *   Learning Rotation-Equivariant Features for Visual Correspondence \
   **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _submitted_.
 
-*   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](http://cvlab.postech.ac.kr/research/REKD) [[code](http://cvlab.postech.ac.kr/research/REKD)] \
+*   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613) [[code](https://github.com/bluedream1121/REKD)] \
   **Jongmin Lee**, Byungjin Kim,  Minsu Cho, in _CVPR 2022_.
 
 *   [Self-supervised Learning of Image Scale and Orientation Estimation](https://www.bmvc2021-virtualconference.com/assets/papers/0836.pdf) [[code](https://github.com/bluedream1121/self-sca-ori)] \
