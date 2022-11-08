@@ -78,7 +78,8 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 *  **Reviewer of international journals** \
     The Visual Computer (2022) \
-    Pattern Recognition (2022) 
+    Pattern Recognition (2022) \
+    IEEE Transactions on Image Processing (2022)
     
 * * *
 
