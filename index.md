@@ -26,6 +26,9 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 ## Publications
 
+*   Multiply Degraded Burst Image Enhancement via Robust Base Frame Selection \
+  **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
+
 *   Learning Rotation-Equivariant Features for Visual Correspondence \
   **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _submitted_.
 
