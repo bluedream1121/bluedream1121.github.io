@@ -60,17 +60,21 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *  **Kakao Brain**,  Nov. 2021 - Now \
     Efficient equivariant representation learning in deep neural networks 
 
-*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2021 - Now  \
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2022 - Now  \
     Confidential
+
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2021 - Now  \
+    Burst image enhancement in an extremely degraded environment by noise, blur and shift.
         
 *  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2020 - Oct. 2021 \
-    Motion-aware burst image enhancement in the extremely low-light situation 
+    Motion-aware burst image enhancement in the extremely low-light situation.
 
 * * *
 
 ## Professional Services
 
 *  **Reviewer of international conferences** \
+    International Conference on Computer Vision (ICCV) 2023 \
     International Conference on 3D Vision (3DV) 2022 \
     European Conference on Computer Vision (ECCV) 2022 \
     IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022, 2023 \
@@ -82,7 +86,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *  **Reviewer of international journals** \
     The Visual Computer (2022) \
     Pattern Recognition (2022) \
-    IEEE Transactions on Image Processing (2022)
+    IEEE Transactions on Image Processing (2022, 2023)
     
 * * *
 
