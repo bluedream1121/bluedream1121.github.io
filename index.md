@@ -30,7 +30,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
   **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
 
 *   Learning Rotation-Equivariant Features for Visual Correspondence \
-  **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _submitted_.
+  **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _CVPR 2023_.
 
 *   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613) [[code](https://github.com/bluedream1121/REKD)] \
   **Jongmin Lee**, Byungjin Kim,  Minsu Cho, in _CVPR 2022_.
@@ -91,6 +91,8 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 * * *
 
 ## Honors and Awards
+
+* **BK21 outstanding paper award**, [ POSTECH CSE ](https://ecse.postech.ac.kr/), 2022.
 
 * **Global Ph.D fellowship**,  [_National Research Foundation of Korea (NRF)_](https://www.nrf.re.kr/eng/page/4a5d0ace-9cbb-4d21-9b18-92c8464aa23b), 2019 -- Now.
     
