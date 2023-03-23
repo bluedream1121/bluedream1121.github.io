@@ -25,10 +25,11 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 * * *
 
 ## Publications
-
+<!-- 
 *   Burst Image Enhancement with Non-Uniform Exposures  \
   **Jongmin Lee**, Min Jung Lee, Sanghyun Kim, Woohyeok Kim, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _submitted_.
-
+ -->
+ 
 *   Multiply Degraded Burst Image Enhancement via Robust Base Frame Selection \
   **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
 
