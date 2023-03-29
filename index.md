@@ -33,7 +33,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *   Multiply Degraded Burst Image Enhancement via Robust Base Frame Selection \
   **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
 
-*   Learning Rotation-Equivariant Features for Visual Correspondence \
+*   [Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/abs/2303.15472) [[code](https://github.com/bluedream1121/RELF) \
   **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _CVPR 2023_.
 
 *   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613) [[code](https://github.com/bluedream1121/REKD)] \
