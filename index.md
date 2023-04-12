@@ -14,10 +14,11 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 ## Research Interests
 
 *   Image Matching (Visual Corrspondence)
-*   Semantic Correspondence
-*   Wide-Baseline Matching
 *   Deep Local Feature Extraction
+*   Wide-Baseline Matching
+*   Semantic Correspondence
 *   Self-Supervised Learning
+*   Geometric Deep Learning
 *   Equivariant Representation Learning
 *   Extremely Low-Light Image Enhancement
 *   Burst Image Enhancement/Restoration
