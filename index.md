@@ -86,7 +86,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022, 2023 \
     British Machine Vision Conference (BMVC) 2021 \
     Winter Conference on Applications of Computer Vision (WACV) 2021, 2022, 2023 \
-    International Conference on Machine Vision Applications (MVA) 2021 \
+    International Conference on Machine Vision Applications (MVA) 2021, 2023 \
     International Conference on Pattern Recognition (ICPR) 2020 
 
 *  **Reviewer of international journals** \
