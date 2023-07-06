@@ -62,13 +62,13 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 ## Research Projects
 
-*  **Kakao Brain**,  Nov. 2021 - Now \
-    Efficient equivariant representation learning in deep neural networks 
+*  **Kakao Brain**,  Nov. 2021 - Jul. 2023 \
+    Efficient equivariant representation learning in deep neural networks.
 
-*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2022 - Now  \
-    Confidential
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2022 - Jul. 2023  \
+    Non-uniformly exposed burst image restoration using robust base frame selector.
 
-*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2021 - Now  \
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2021 - Oct. 2022  \
     Burst image enhancement in an extremely degraded environment by noise, blur and shift.
         
 *  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2020 - Oct. 2021 \
