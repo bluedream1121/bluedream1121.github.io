@@ -94,7 +94,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     IEEE Transactions on Pattern Analysis and Machine Intelligence (2023) \
     International Journal of Computer Vision (2023) \
     IEEE Transactions on Image Processing (2022, 2023) \
-    Pattern Recognition (2022) \
+    Pattern Recognition (2022, 2023) \
     The Visual Computer (2022) 
     
 * * *
