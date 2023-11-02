@@ -33,14 +33,10 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     * Improved gaze estimation accuracy in Meta Quest production model using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes model
     * Increased KPIs (P95, PCD$<$4.5) of ET production model by 9\% of Arcata project 
 
-<br>
-
 * [Fast campus.](https://fastcampus.co.kr/), Seoul, South Korea.
   * _Computer Vision Lecturer_, Mar 2022 ~ Aug 2022
     * Lecturing on computer vision from classical to state-of-the-art deep learning approaches.
     * Curriculum Sheet: [Google Spreadsheet](https://bit.ly/440T2ih)
-
-<br>
 
 * [Vuno Inc.](https://www.vuno.co/), Seoul, South Korea.
   * _Front-end Developer_, Jun 2017 ~ Aug 2017
