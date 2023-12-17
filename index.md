@@ -121,6 +121,8 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 ## Honors and Awards
 
+* **Qualcomm innovation fellowship Korea finalist**, [ Qualcomm Technologies Inc. ](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists), 2023.
+
 * **BK21 outstanding paper award**, [ POSTECH CSE ](https://ecse.postech.ac.kr/), 2022.
 
 * **Global Ph.D fellowship**,  [_National Research Foundation of Korea (NRF)_](https://www.nrf.re.kr/eng/page/4a5d0ace-9cbb-4d21-9b18-92c8464aa23b), 2019 -- Now.
