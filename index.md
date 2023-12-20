@@ -32,12 +32,12 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     * Manager: Survi Kyal, Mentor: Fengting Yang
     * Succeeded to achieve KPIs of Eye Tracking production model of Arcata project (XR Eyes)
     * Improved gaze estimation accuracy in production model of Meta Quest using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes 
-  <!-- 
+<!-- 
     * Learning-based analytics research on human behavior for AR/VR device. (XR Eyes)
     * Improved gaze estimation accuracy in Meta Quest production model using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes model
     * Increased KPIs (P95, PCD$<$4.5) of ET production model by 9% of Arcata project 
-  -->
-<!-- 
+
+
 * [Fast campus.](https://fastcampus.co.kr/), Seoul, South Korea.
   * _Computer Vision Lecturer_, Mar 2022 ~ Aug 2022
     * Lecturing on computer vision from classical to state-of-the-art deep learning approaches.
