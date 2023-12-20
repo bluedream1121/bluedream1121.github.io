@@ -3,7 +3,7 @@ layout: default
 ---
 
 I am a graduate student in a Ph.D. program in the Computer Science Engineering department (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea.
-My primary research interest is in learning visual correspondence and its applications. I am also interested in equivariant representation learning and burst image enhancement/restoration.
+My primary research interest is in learning visual correspondence and its applications. I am also interested in equivariant representation learning for invariant feature extraction.
 I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in POSTECH, under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
 
 
