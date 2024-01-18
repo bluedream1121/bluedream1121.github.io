@@ -111,7 +111,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     International Conference on Learning Representations (ICLR) 2024 \
     Neural Information Processing Systems (NeurIPS) 2023 \
     International Conference on Computer Vision (ICCV) 2023 \
-    European Conference on Computer Vision (ECCV) 2022 \
+    European Conference on Computer Vision (ECCV) 2022, 2024 \
     International Conference on 3D Vision (3DV) 2022 \
     British Machine Vision Conference (BMVC) 2021 \
     Winter Conference on Applications of Computer Vision (WACV) 2021, 2022, 2023, 2024 \
