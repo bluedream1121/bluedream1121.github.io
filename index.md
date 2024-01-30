@@ -57,9 +57,13 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *   Burst Image Enhancement with Non-Uniform Exposures  \
   **Jongmin Lee**, Min Jung Lee, Sanghyun Kim, Woohyeok Kim, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _submitted_.
  -->
- 
+<!-- 
 *   Multiply Degraded Burst Image Enhancement via Robust Base Frame Selection \
   **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
+ -->
+
+* Base Frame Selection on Dynamically Exposed Burst \
+  Min Jung Lee, **Jongmin Lee**, Sanghyun Kim, Sunghyun Cho, Minsu Cho, in _IPIU 2024_.
 
 *   [Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/abs/2303.15472) [[code](https://github.com/bluedream1121/RELF)] \
   **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _CVPR 2023_.
