@@ -62,7 +62,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
   **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
  -->
 
-* Base Frame Selection on Dynamically Exposed Burst \
+*   [Base Frame Selection on Dynamically Exposed Burst](./assets/pdf/IPIU2024.pdf) [[code](./assets/pdf/IPIU2024.pdf)] \
   Min Jung Lee, **Jongmin Lee**, Sanghyun Kim, Sunghyun Cho, Minsu Cho, in _IPIU 2024_.
 
 *   [Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/abs/2303.15472) [[code](https://github.com/bluedream1121/RELF)] \
