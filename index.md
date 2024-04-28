@@ -53,6 +53,10 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 * * *
 
 ## Publications
+
+*   3D Equivariant Pose Estimation via Direct Spherical Harmonics Prediction \
+  **Jongmin Lee**, Minsu Cho, _On-going_.
+    
 <!-- 
 *   Burst Image Enhancement with Non-Uniform Exposures  \
   **Jongmin Lee**, Min Jung Lee, Sanghyun Kim, Woohyeok Kim, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _submitted_.
