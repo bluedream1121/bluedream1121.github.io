@@ -131,7 +131,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     International Conference on Pattern Recognition (ICPR) 2020 
 
 *  **Program committee of international conferences** \
-    Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 \
+    Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 
 
 *  **Reviewer of international journals** \
     IEEE Transactions on Pattern Analysis and Machine Intelligence (2023, 2024) \
