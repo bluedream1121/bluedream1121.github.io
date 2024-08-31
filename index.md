@@ -119,16 +119,19 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *  **Reviewer of international conferences** \
     Computer Vision and Pattern Recognition (CVPR) 2022, 2023, 2024 \
     International Conference on Machine Learning (ICML) 2024 \
-    International Conference on Learning Representations (ICLR) 2024 \
+    International Conference on Learning Representations (ICLR) 2024, 2025 \
     Neural Information Processing Systems (NeurIPS) 2023, 2024 \
     International Conference on Computer Vision (ICCV) 2023 \
     European Conference on Computer Vision (ECCV) 2022, 2024 \
     Asian Conference on Comoputer Vision (ACCV) 2024 \
     International Conference on 3D Vision (3DV) 2022 \
     British Machine Vision Conference (BMVC) 2021 \
-    Winter Conference on Applications of Computer Vision (WACV) 2021, 2022, 2023, 2024 \
+    Winter Conference on Applications of Computer Vision (WACV) 2021, 2022, 2023, 2024, 2025 \
     International Conference on Machine Vision Applications (MVA) 2021, 2023 \
     International Conference on Pattern Recognition (ICPR) 2020 
+
+*  **Program committee of international conferences** \
+    Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 \
 
 *  **Reviewer of international journals** \
     IEEE Transactions on Pattern Analysis and Machine Intelligence (2023, 2024) \
