@@ -31,6 +31,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
   * _Ph.D Research Scientist Intern_, Jul 2023 ~ Oct 2023
     * Manager: Survi Kyal, Mentor: Fengting Yang
     * Succeeded to achieve KPIs of Eye Tracking production model of Meta Queset Pro, Arcata project (XR Eyes)
+   
 <!--
     * Succeeded to achieve KPIs of Eye Tracking production model of Arcata project (XR Eyes)
     * Improved gaze estimation accuracy in production model of Meta Quest using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes
