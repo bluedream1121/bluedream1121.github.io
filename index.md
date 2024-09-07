@@ -30,7 +30,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 * [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
   * _Ph.D Research Scientist Intern_, Jul 2023 ~ Oct 2023
     * Manager: Survi Kyal, Mentor: Fengting Yang
-    * Succeeded to achieve KPIs of Eye Tracking production model of Meta Queset Pro, Arcata project (XR Eyes)
+    * Succeeded to achieve target KPIs of Eye Tracking production model of Meta Queset Pro, Arcata project (XR Eyes)
    
 <!--
     * Succeeded to achieve KPIs of Eye Tracking production model of Arcata project (XR Eyes)
