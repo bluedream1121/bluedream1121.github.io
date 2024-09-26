@@ -58,7 +58,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
   **Jongmin Lee**, _Ph.D. Thesis_, June 2024.
 
 *   3D Equivariant Pose Estimation via Direct Spherical Harmonics Prediction \
-  **Jongmin Lee**, Minsu Cho, _On-going_.
+  **Jongmin Lee**, Minsu Cho, in _NeurIPS 2024_.
     
 <!-- 
 *   Burst Image Enhancement with Non-Uniform Exposures  \
@@ -68,10 +68,10 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *   Multiply Degraded Burst Image Enhancement via Robust Base Frame Selection \
   **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
  -->
-
+<!-- 
 *   [Base Frame Selection on Dynamically Exposed Burst](./assets/pdf/IPIU2024.pdf) [[code](./assets/pdf/IPIU2024.pdf)] \
   Min Jung Lee, **Jongmin Lee**, Sanghyun Kim, Sunghyun Cho, Minsu Cho, in _IPIU 2024_.
-
+ -->
 *   [Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/abs/2303.15472) [[code](https://github.com/bluedream1121/RELF)] \
   **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _CVPR 2023_.
 
