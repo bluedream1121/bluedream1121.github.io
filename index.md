@@ -57,7 +57,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *   Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)] \
   **Jongmin Lee**, _Ph.D. Thesis_, June 2024.
 
-*   3D Equivariant Pose Estimation via Direct Spherical Harmonics Prediction \
+*   3D Equivariant Pose Estimation via Direct Spherical Harmonics Prediction [code](https://bluedream1121.github.io/)] \
   **Jongmin Lee**, Minsu Cho, in _NeurIPS 2024_.
     
 <!-- 
