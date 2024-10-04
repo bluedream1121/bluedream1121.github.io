@@ -126,6 +126,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     Asian Conference on Comoputer Vision (ACCV) 2024 \
     International Conference on 3D Vision (3DV) 2022 \
     British Machine Vision Conference (BMVC) 2021 \
+    Artificial Intelligence and Statistics Conference (AISTATS) 2025 \
     Winter Conference on Applications of Computer Vision (WACV) 2021, 2022, 2023, 2024, 2025 \
     International Conference on Machine Vision Applications (MVA) 2021, 2023 \
     International Conference on Pattern Recognition (ICPR) 2020 
