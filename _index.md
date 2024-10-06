@@ -2,13 +2,14 @@
 layout: default
 ---
 
-I am a Ph.D. in the Computer Science Engineering department (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea.
+I am a graduate student in a Ph.D. program in the Computer Science Engineering department (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea.
 My primary research interest is in learning visual correspondence and its applications. I am also interested in equivariant representation learning for invariant feature extraction.
 I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in POSTECH, under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
 
 
+
+
 * * *
-<!--
 
 ## Research Interests
 
@@ -23,42 +24,14 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *   Burst Image Enhancement/Restoration
 
 * * *
--->
 
-## Education
+## Industry Experience
 
-* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea.
-  *  _M.S./Ph.D._ in Computer Science Engineering (CSE),  Sep 2018 ~ Aug 2024
-  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
-  * Dissertation: Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)]
-
-* _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Double major)
-  * _B.S._ in Industrial and Management Engineering (IME), Mar 2013 ~ Aug 2018
-  * _B.S._ in Computer Science Engineering (CSE), Mar 2013 ~ Aug 2018
-
-
-* * *
-
-
-## Work Experience
-
-* [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
-  *  _Research Scientist Intern_, Jul 2023 ~ Oct 2023
-  * Manager: Survi Kyal, Mentor: Fengting Yang, _in [XR Eyes](https://www.meta.com/ko-kr/blog/quest/orion-ar-glasses-augmented-reality/)_
-
-* [Fast campus.](https://fastcampus.co.kr/), Seoul, South Korea.
-  * _Computer Vision Lecturer_, Mar 2022 ~ Aug 2022
-  * Curriculum Sheet: [Google Spreadsheet](https://bit.ly/440T2ih)
-
-* [Vuno Inc.](https://www.vuno.co/), Seoul, South Korea.
-  * _Front-end Developer_, Jun 2017 ~ Aug 2017
-
-<!--
 * [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
   * _Ph.D Research Scientist Intern_, Jul 2023 ~ Oct 2023
     * Manager: Survi Kyal, Mentor: Fengting Yang
     * Succeeded to achieve target KPIs of Eye Tracking production model of Meta Queset Pro, Arcata project (XR Eyes)
--->
+   
 <!--
     * Succeeded to achieve KPIs of Eye Tracking production model of Arcata project (XR Eyes)
     * Improved gaze estimation accuracy in production model of Meta Quest using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes
@@ -66,7 +39,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     * Improved gaze estimation accuracy in Meta Quest production model using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes model
     * Increased KPIs (P95, PCD$<$4.5) of ET production model by 9% of Arcata project 
 -->
-<!--
+
 * [Fast campus.](https://fastcampus.co.kr/), Seoul, South Korea.
   * _Computer Vision Lecturer_, Mar 2022 ~ Aug 2022
     * Lecturing on computer vision from classical to state-of-the-art deep learning approaches.
@@ -75,16 +48,14 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 * [Vuno Inc.](https://www.vuno.co/), Seoul, South Korea.
   * _Front-end Developer_, Jun 2017 ~ Aug 2017
     * Developed the client/front-end interface for an AI-based software for diagnosis of major abnormalities from a chest X-ray. 
--->
+
 
 * * *
 
 ## Publications
 
-<!-- 
 *   Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)] \
   **Jongmin Lee**, _Ph.D. Thesis_, June 2024.
- -->
 
 *   [3D Equivariant Pose Estimation via Direct Spherical Harmonics Prediction](https://neurips.cc/virtual/2024/poster/93651) [[code](https://bluedream1121.github.io/)] \
   **Jongmin Lee**, Minsu Cho, in _NeurIPS 2024_.
@@ -186,8 +157,6 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 * * *
 
-
-<!-- 
 ## Education
 
 - [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/), Pohang, Korea (Sep 2018 -- now)
@@ -208,4 +177,3 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 ```
 
--->
