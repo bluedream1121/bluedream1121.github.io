@@ -28,8 +28,8 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 ## Education
 
 * _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
-  *  _M.S./Ph.D._ in Computer Science Engineering (CSE)
-  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/), Lab: [Computer Vision Lab.](https://cvlab.postech.ac.kr/lab/)
+  *  _M.S./Ph.D._ in Computer Science Engineering (CSE) 
+  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
   * Dissertation: Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)]
 
 * _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Mar 2013 ~ Aug 2018)
