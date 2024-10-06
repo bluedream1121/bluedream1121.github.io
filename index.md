@@ -37,7 +37,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
   * _B.S._ in Computer Science Engineering (CSE) 
 
 
-<!-- * * * -->
+* * *
 
 
 ## Work Experience
@@ -77,7 +77,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     * Developed the client/front-end interface for an AI-based software for diagnosis of major abnormalities from a chest X-ray. 
 -->
 
-<!-- * * * -->
+* * *
 
 ## Publications
 
@@ -125,7 +125,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *   [Attentive Semantic Alignment with Offset-Aware Correlation Kernels](https://arxiv.org/abs/1808.02128) [[code](https://github.com/bluedream1121/A2Net)] \
     Paul Hongsuck Seo, **Jongmin Lee**, Deunsol Jung, Bohyung Han, Minsu Cho, in _ECCV 2018_.
 
-<!-- * * * -->
+* * *
 
 ## Research Projects
 
@@ -141,7 +141,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 *  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2020 - Oct. 2021 \
     Motion-aware burst image enhancement in the extremely low-light situation.
 
-<!-- * * * -->
+* * *
 
 ## Professional Services
 
@@ -170,7 +170,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     Pattern Recognition (2022, 2023) \
     The Visual Computer (2022) 
     
-<!-- * * * -->
+* * *
 
 ## Honors and Awards
 
@@ -184,7 +184,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
     
 * **SK Hynix scholarship**, [SK Hynix Fellowship Program](http://times.postech.ac.kr/news/articleView.html?idxno=7120), _POSTECH_, 2015.
 
-<!-- * * * -->
+* * *
 
 ## Invited Talks
 
@@ -196,7 +196,7 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 * Semantic Alignment - Find Semantic Dense Correspondence, _Naver corp._, Pangyo, Korea, October 2018. [[Youtube link (Korean)](https://www.youtube.com/watch?v=4OozCgE95P8)]
 
-<!-- * * * -->
+* * *
 
 ## Research Interest
 
