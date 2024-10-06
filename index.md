@@ -207,7 +207,6 @@ My research interests mainly focus on developing novel models and algorithms to 
 * **Visual correspondence**: wide-baseline matching, semantic matching, camera pose estimation, novel-view synthesis, 3D symmetry, 3D reconstruction,  point cloud registration, text-to-3D generation, 3D multimodal LLMs, and foundation models for 3D vision.
 
 * **Representation learning**: equivariant representation learning, self-supervised learning, multi-modal learning, geometric deep learning, and diffusion models for visual tasks.
-\end{list2}
 
 The application domains of interest include, but are not limited to, visual geometry/3D vision (e.g., autonomous driving, visual SLAM, and multi-view geometry), computational photography (e.g., image restoration and enhancement, burst photography in the dark, and camera ISP), and AR/VR technologies (e.g., eye tracking, gaze estimation, pose estimation, and neural rendering).
 
