@@ -27,14 +27,13 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 
 ## Education
 
-* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea.
-  *  _M.S./Ph.D._ in Computer Science Engineering (CSE),  Sep 2018 ~ Aug 2024
-  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
+* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
+  *  _M.S./Ph.D._ in Computer Science Engineering (CSE), Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
   * Dissertation: Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)]
 
-* _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Double major)
-  * _B.S._ in Industrial and Management Engineering (IME), Mar 2013 ~ Aug 2018
-  * _B.S._ in Computer Science Engineering (CSE), Mar 2013 ~ Aug 2018
+* _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Mar 2013 ~ Aug 2018)
+  * _B.S._ in Industrial and Management Engineering (IME)
+  * _B.S._ in Computer Science Engineering (CSE) (Double major)
 
 
 * * *
@@ -183,6 +182,18 @@ I am a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/) in
 * **POSTECH CSE research award (2nd place)**, [_Undergraduate Research Program_](https://cse.postech.ac.kr/2018-1%ed%95%99%ea%b8%b0-%ea%b3%bc%ec%a0%9c%ec%97%b0%ea%b5%ac%eb%b0%9c%ed%91%9c-%ea%b0%9c%ec%b5%9c-%eb%b0%8f-%ec%8b%9c%ec%83%81%ec%8b%9d/?pageds=1&p_id=111&e=%EA%B3%BC%EC%A0%9C%EC%97%B0%EA%B5%AC%EB%B0%9C%ED%91%9C&k=&c=), _POSTECH Computer Science Engineering Department_, 2018.
     
 * **SK Hynix scholarship**, [SK Hynix Fellowship Program](http://times.postech.ac.kr/news/articleView.html?idxno=7120), _POSTECH_, 2015.
+
+* * *
+
+## Invited Talks
+
+* 3D Equivariance: Learning Equivariant Features for Visual Correspondence and Pose Estimation, _Technion - Israel Institute of Technology_, Haifa, Isreal, September 2024.
+    
+* Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features, _ICCV 2019 Paper Day with Naver_, Hotel Andaz Gangnam, Seoul, Korea, October 2019.
+
+* Where is semantic correspondence? - The general image matching problem in deep learning era, _Hyundai Motors AI Lab seminar_, Pohang, Korea, September 2019.
+
+* Semantic Alignment - Find Semantic Dense Correspondence, _Naver corp._, Pangyo, Korea, October 2018. [[Youtube link (Korean)](https://www.youtube.com/watch?v=4OozCgE95P8)]
 
 * * *
 
