@@ -3,9 +3,8 @@ layout: default
 ---
 
 I am a Ph.D. in the Computer Science Engineering department (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea.
-I was a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/), under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
+I was a member of the [computer vision lab.](https://cvlab.postech.ac.kr/lab/), under supervision of Professor [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). My research aims to advance spatial artificial intelligence (spatial AI) by building on the principles of computer vision, machine learning, and robotics.
 
-My research aims to advance spatial artificial intelligence (spatial AI) by building on the principles of computer vision, machine learning, and robotics.
 During my Ph.D., I specialized in addressing fundamental challenges in visual geometry for 3D vision from 2D imagery. In particular, my work focuses on solving visual correspondence and pose estimation problems through equivariant learning, enabling improved generalization and data-efficient training.
 
 
