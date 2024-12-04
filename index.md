@@ -91,7 +91,7 @@ My primary research interest is in learning visual correspondence and its applic
   **Jongmin Lee**, _Ph.D. Thesis_, June 2024.
  -->
 
-*   [3D Equivariant Pose Estimation via Direct Spherical Harmonics Prediction](https://neurips.cc/virtual/2024/poster/93651) [[code](https://bluedream1121.github.io/)] \
+*   [3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction](https://neurips.cc/virtual/2024/poster/93651) [[code]([https://bluedream1121.github.io/)](https://cvlab.postech.ac.kr/research/3D_EquiPose/)] \
   **Jongmin Lee**, Minsu Cho, in _NeurIPS 2024_.
     
 <!-- 
