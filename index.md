@@ -154,7 +154,7 @@ My primary research interest is in learning visual correspondence and its applic
     Computer Vision and Pattern Recognition (CVPR) 2022, 2023, 2024, 2025 \
     International Conference on Learning Representations (ICLR) 2024, 2025 \
     Neural Information Processing Systems (NeurIPS) 2023, 2024 \
-    International Conference on Machine Learning (ICML) 2024 \
+    International Conference on Machine Learning (ICML) 2024, 2025 \
     International Conference on Computer Vision (ICCV) 2023 \
     European Conference on Computer Vision (ECCV) 2022, 2024 \
     Asian Conference on Comoputer Vision (ACCV) 2024 \
