@@ -3,49 +3,21 @@ layout: default
 ---
 
 I am a Ph.D. graduate in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea,
-where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) under the supervision of [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). My research aims to advance spatial  intelligence (spatial AI) by building on the principles of computer vision, machine learning, and robotics.
+where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) under the supervision of [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). 
 
-During my Ph.D., I specialized in addressing fundamental challenges in visual geometry for 3D vision from 2D imagery. In particular, my work focuses on solving visual correspondence and pose estimation problems through equivariant learning, enabling improved generalization and data-efficient training.
-
-
-
-
-* * *
 <!--
-My primary research interest is in learning visual correspondence and its applications. I am also interested in equivariant representation learning for invariant feature extraction.
-
-## Research Interests
-
-*   Image Matching (Visual Corrspondence)
-*   Deep Local Feature Extraction
-*   Wide-Baseline Matching
-*   Semantic Correspondence
-*   Self-Supervised Learning
-*   Geometric Deep Learning
-*   Equivariant Representation Learning
-*   Extremely Low-Light Image Enhancement
-*   Burst Image Enhancement/Restoration
-
-* * *
+My research aims to advance spatial  intelligence (spatial AI) by building on the principles of computer vision, machine learning, and robotics. During my Ph.D., I specialized in addressing fundamental challenges in visual geometry for 3D vision from 2D imagery. In particular, my work focuses on solving visual correspondence and pose estimation problems through equivariant learning, enabling improved generalization and data-efficient training.
 -->
-
-## Education
-
-* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
-  *  _M.S./Ph.D._ in Computer Science Engineering (CSE) 
-  * Dissertation: [Equivariant Image Matching and Pose Estimation](./assets/thesis_JongminLee.pdf)
-  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
-  <!-- * Dissertation: Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)]  -->
-
-* _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Mar 2013 ~ Aug 2018)
-  * _B.S._ in Industrial and Management Engineering (IME)
-  * _B.S._ in Computer Science Engineering (CSE) 
 
 
 * * *
 
 
 ## Work Experience
+
+* [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
+  *  _Research Scientist/Engineer_, Oct 2024 ~ Now
+  * Deep document understanding with multi-modal LLMs (Document Layout analysis, DocQA)
 
 * [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
   *  _Research Scientist Intern_, Jul 2023 ~ Oct 2023
@@ -81,6 +53,40 @@ My primary research interest is in learning visual correspondence and its applic
   * _Front-end Developer_, Jun 2017 ~ Aug 2017
     * Developed the client/front-end interface for an AI-based software for diagnosis of major abnormalities from a chest X-ray. 
 -->
+
+
+* * *
+<!--
+My primary research interest is in learning visual correspondence and its applications. I am also interested in equivariant representation learning for invariant feature extraction.
+
+## Research Interests
+
+*   Image Matching (Visual Corrspondence)
+*   Deep Local Feature Extraction
+*   Wide-Baseline Matching
+*   Semantic Correspondence
+*   Self-Supervised Learning
+*   Geometric Deep Learning
+*   Equivariant Representation Learning
+*   Extremely Low-Light Image Enhancement
+*   Burst Image Enhancement/Restoration
+
+* * *
+-->
+
+## Education
+
+* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
+  *  _M.S./Ph.D._ in Computer Science Engineering (CSE) 
+  * Dissertation: [Equivariant Image Matching and Pose Estimation](./assets/thesis_JongminLee.pdf)
+  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
+  <!-- * Dissertation: Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)]  -->
+
+* _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Mar 2013 ~ Aug 2018)
+  * _B.S._ in Industrial and Management Engineering (IME)
+  * _B.S._ in Computer Science Engineering (CSE) 
+
+
 
 * * *
 
