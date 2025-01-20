@@ -20,7 +20,8 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 
 * [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
   *  _Research Scientist/Engineer_, Oct 2024 ~ Now
-  * Deep document understanding with multi-modal LLMs, working on document layout analysis (DLA), document question answering (DocQA).
+  *  Deep document understanding with multi-modal large langauge models.
+ <!-- * Deep document understanding with multi-modal LLMs, working on document layout analysis (DLA), document question answering (DocQA).-->
 
 * [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
   *  _Research Scientist Intern_, Jul 2023 ~ Oct 2023
