@@ -17,7 +17,7 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 
 * [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
   *  _Research Scientist/Engineer_, Oct 2024 ~ Now
-  * Deep document understanding with multi-modal LLMs (Document Layout analysis, DocQA)
+  * Deep document understanding with multi-modal LLMs (document layout analysis (DLA), document question answering (DocQA))
 
 * [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
   *  _Research Scientist Intern_, Jul 2023 ~ Oct 2023
@@ -211,17 +211,27 @@ My primary research interest is in learning visual correspondence and its applic
 
 ## Research Interest
 
-
+<!-- 
 My research interests mainly focus on developing novel models and algorithms to address practical challenges in deploying artificial intelligence systems to various real-world application domains. I am currently engaged in the following topics:
-
 
 * **Visual correspondence**: wide-baseline matching, semantic matching, camera pose estimation, novel-view synthesis, 3D symmetry, 3D reconstruction,  point cloud registration, text-to-3D generation, 3D multimodal LLMs, and foundation models for 3D vision.
 
 * **Representation learning**: equivariant representation learning, self-supervised learning, multi-modal learning, geometric deep learning, and diffusion models for visual tasks.
 
 The application domains of interest include, but are not limited to, visual geometry/3D vision (e.g., autonomous driving, visual SLAM, and multi-view geometry), computational photography (e.g., image restoration and enhancement, burst photography in the dark, and camera ISP), and AR/VR technologies (e.g., eye tracking, gaze estimation, pose estimation, and neural rendering).
+-->
+My research interests mainly focus on developing novel models and algorithms to address practical challenges in deploying artificial intelligence systems to various real-world application domains. I am currently interested and engaged in the following topics:
 
+* **Product-oriented AI**: Enterprise work agents with M-LLMs, advanced intelligence for augmenting human life, model compression for on-device AI deployment in resource-constrained environments.
+
+* **textbf{Multi-modal large language models**: Deep document understanding, video summarization, vision-language-action (VLA) models for robotics and real-world interaction, 
+task-specific fine-tuning for complex multi-modal applications.
+
+* **Spatial reasoning**: Structural learning for visual geometry,  image matching, pose estimation, semantic correspondence, optical flow for video understanding
+
+    
 * * *
+
 
 
 <!-- 
