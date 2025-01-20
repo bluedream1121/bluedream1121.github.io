@@ -228,7 +228,7 @@ My research interests mainly focus on developing novel models and algorithms to 
 
 * **Product-oriented AI**: Enterprise work agents with M-LLMs, advanced intelligence for augmenting human life, model compression for on-device AI deployment in resource-constrained environments.
 
-* **textbf{Multi-modal large language models**: Deep document understanding, video summarization, vision-language-action (VLA) models for robotics and real-world interaction, 
+* **Multi-modal large language models**: Deep document understanding, video summarization, vision-language-action (VLA) models for robotics and real-world interaction, 
 task-specific fine-tuning for complex multi-modal applications.
 
 * **Spatial reasoning**: Structural learning for visual geometry,  image matching, pose estimation, semantic correspondence, optical flow for video understanding
