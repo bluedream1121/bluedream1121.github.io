@@ -2,10 +2,13 @@
 layout: default
 ---
 
+I am a research scientist / engineer in LG AI Research.
+I receviced my Ph.D. degree in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea, where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) working with [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
+
+<!--
 I am a Ph.D. graduate in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea,
 where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) under the supervision of [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). 
 
-<!--
 My research aims to advance spatial  intelligence (spatial AI) by building on the principles of computer vision, machine learning, and robotics. During my Ph.D., I specialized in addressing fundamental challenges in visual geometry for 3D vision from 2D imagery. In particular, my work focuses on solving visual correspondence and pose estimation problems through equivariant learning, enabling improved generalization and data-efficient training.
 -->
 
@@ -17,7 +20,7 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 
 * [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
   *  _Research Scientist/Engineer_, Oct 2024 ~ Now
-  * Deep document understanding with multi-modal LLMs (document layout analysis (DLA), document question answering (DocQA))
+  * Deep document understanding with multi-modal LLMs, working on document layout analysis (DLA), document question answering (DocQA).
 
 * [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
   *  _Research Scientist Intern_, Jul 2023 ~ Oct 2023
