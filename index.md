@@ -3,7 +3,7 @@ layout: default
 ---
 
 I am a research scientist / engineer in LG AI Research.
-I receviced my Ph.D. degree in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea, where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) working with [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
+I received my Ph.D. degree in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea, where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) working with [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
 
 <!--
 I am a Ph.D. graduate in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea,
