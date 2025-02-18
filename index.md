@@ -80,7 +80,7 @@ My primary research interest is in learning visual correspondence and its applic
 
 ## Education
 
-* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
+* _M.S./Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
   *  _M.S./Ph.D._ in Computer Science Engineering (CSE) 
   * Dissertation: [Equivariant Image Matching and Pose Estimation](./assets/thesis_JongminLee.pdf)
   * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
