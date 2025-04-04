@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a research scientist / engineer in LG AI Research.
+I am a research scientist in LG AI Research.
 I received my Ph.D. degree in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea, where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) working with [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
 
 <!--
@@ -19,7 +19,7 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 ## Work Experience
 
 * [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
-  *  _Research Scientist/Engineer_, Oct 2024 ~ Now
+  *  _Research Scientist_, Oct 2024 ~ Now
   *  Deep document understanding with multi-modal large langauge models.
  <!-- * Deep document understanding with multi-modal LLMs, working on document layout analysis (DLA), document question answering (DocQA).-->
 
