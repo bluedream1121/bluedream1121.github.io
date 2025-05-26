@@ -211,9 +211,9 @@ My primary research interest is in learning visual correspondence and its applic
 * Semantic Alignment - Find Semantic Dense Correspondence, _Naver corp._, Pangyo, Korea, October 2018. [[Youtube link (Korean)](https://www.youtube.com/watch?v=4OozCgE95P8)]
 
 * * *
-
+<!-- 
 ## Research Interest
-
+-->
 <!-- 
 My research interests mainly focus on developing novel models and algorithms to address practical challenges in deploying artificial intelligence systems to various real-world application domains. I am currently engaged in the following topics:
 
@@ -223,6 +223,7 @@ My research interests mainly focus on developing novel models and algorithms to 
 
 The application domains of interest include, but are not limited to, visual geometry/3D vision (e.g., autonomous driving, visual SLAM, and multi-view geometry), computational photography (e.g., image restoration and enhancement, burst photography in the dark, and camera ISP), and AR/VR technologies (e.g., eye tracking, gaze estimation, pose estimation, and neural rendering).
 -->
+<!-- 
 My research interests mainly focus on developing novel models and algorithms to address practical challenges in deploying artificial intelligence systems to various real-world application domains. I am currently interested and engaged in the following topics:
 
 * **Product-oriented AI**: Enterprise work agents with M-LLMs, advanced intelligence for augmenting human life, model compression for on-device AI deployment in resource-constrained environments.
@@ -231,7 +232,7 @@ My research interests mainly focus on developing novel models and algorithms to 
 task-specific fine-tuning for complex multi-modal applications.
 
 * **Spatial reasoning**: Structural learning for visual geometry,  image matching, pose estimation, semantic correspondence, optical flow for video understanding
-
+-->
     
 * * *
 
