@@ -175,7 +175,7 @@ My primary research interest is in learning visual correspondence and its applic
     International Conference on Pattern Recognition (ICPR) 2020 
 
 *  **Program committee of international conferences** \
-    Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 
+    Annual AAAI Conference on Artificial Intelligence (AAAI) 2025, 2026
 
 *  **Reviewer of international journals** \
     IEEE Transactions on Pattern Analysis and Machine Intelligence (2023, 2024) \
