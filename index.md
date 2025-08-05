@@ -15,7 +15,6 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 
 * * *
 
-
 ## Work Experience
 
 * [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
