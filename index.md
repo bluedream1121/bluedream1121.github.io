@@ -5,6 +5,8 @@ layout: default
 I am a research scientist in LG AI Research.
 I received my Ph.D. degree in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea, where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) working with [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
 
+I will be leading the [Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/) starting in Fall 2025, as an Assistant Professor at Chung-Ang University (CAU).
+
 <!--
 I am a Ph.D. graduate in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea,
 where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) under the supervision of [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/). 
