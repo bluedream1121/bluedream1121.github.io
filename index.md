@@ -19,7 +19,7 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 
 * [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
   *  _Research Scientist_, Oct 2024 ~ Now
-  *  Post-training multi-modal LLMs (SFT, DPO/GRPO) for Vision-language foundation model in _Vision Lab_ and _Exaone VL TF_
+  *  Post-training multi-modal LLMs (SFT, DPO/GRPO) for vision-language foundation model in _Vision Lab_ and _Exaone VL TF_
 
 * [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
   *  _Research Scientist Intern_, Jul 2023 ~ Oct 2023
