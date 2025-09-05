@@ -206,6 +206,8 @@ My primary research interest is in learning visual correspondence and its applic
 
 ## Invited Talks
 
+* Toward Spatial Intelligence: Visual Geometry & 3D Vision, _KAIST AI_, Seoul, Korea, September 2025. (Host: Seungryong Kim)
+
 * 3D Equivariance: Learning Equivariant Features for Visual Correspondence and Pose Estimation, _Technion - Israel Institute of Technology_, Haifa, Isreal, September 2024. (Host: Or Litany)
     
 * Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features, _ICCV 2019 Paper Day with Naver_, Hotel Andaz Gangnam, Seoul, Korea, October 2019.
