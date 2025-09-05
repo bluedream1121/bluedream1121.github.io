@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am an assistant professor in the school of Computer Science & Engineering (CSE) at Chung-Ang University (CAU), where I lead the [Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/).
+I am an assistant professor in the school of Computer Science & Engineering ([CSE](https://cse.cau.ac.kr/eng/main.php)) at Chung-Ang University ([CAU](https://www.instagram.com/chunganguniv/)), where I lead the [Spatial Intelligence Lab](https://bluedream1121.github.io/spatial-intelligence-lab/).
 
 I received my Ph.D. degree in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea, where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) working with [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
 
