@@ -217,6 +217,18 @@ My primary research interest is in learning visual correspondence and its applic
 * Semantic Alignment - Find Semantic Dense Correspondence, _Naver corp._, Pangyo, Korea, October 2018. [[Youtube link (Korean)](https://www.youtube.com/watch?v=4OozCgE95P8)]
 
 * * *
+
+## Lectures
+
+* CS 59162 Deep Learning (Fall 2025)
+
+* CS 53744 Machine Learning Project (Fall 2025)
+
+* CS 40458 Automata and Formal Languages (Fall 2025)
+
+* * *
+
+
 <!-- 
 ## Research Interest
 -->
