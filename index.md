@@ -123,7 +123,7 @@ My primary research interest is in learning visual correspondence and its applic
 *   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613) [[code](https://github.com/bluedream1121/REKD)] \
   **Jongmin Lee**, Byungjin Kim,  Minsu Cho, in _CVPR 2022_.
 
-*   [Self-supervised Learning of Image Scale and Orientation Estimation](https://www.bmvc2021-virtualconference.com/assets/papers/0836.pdf) [[code](https://github.com/bluedream1121/self-sca-ori)] \
+*   [Self-supervised Learning of Image Scale and Orientation Estimation](https://www.bmva-archive.org.uk/bmvc/2021/conference/papers/paper_0836.html) [[code](https://github.com/bluedream1121/self-sca-ori)] \
   **Jongmin Lee**, Yoonwoo Jeong,  Minsu Cho, in _BMVC 2021_.
 
 *   [Learning to Distill Convolutional Features Into Compact Local Descriptors](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf) [[code](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf)] \
