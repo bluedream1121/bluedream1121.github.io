@@ -20,27 +20,45 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 
 ## Work Experience
 
-* **[Chung-Ang University (CAU)](https://neweng.cau.ac.kr/index.do/)**, Heukseok, Seoul, Korea.
-  * _Assistant Professor _, Sep 2025 – Now
-  * Teaching undergraduate/graduate courses in Computer Science & Artificial Intelligence.
-  * Leading the Spatial Intelligence Lab, with a focus on realizing real-world AI
-  * Research: 3D computer vision, machine learning, multimodal reasoning, and robotics.
-  * Lab hompage: [https://bluedream1121.github.io/spatial-intelligence-lab/](https://bluedream1121.github.io/spatial-intelligence-lab/)
-* [**LG AI Research.**](https://www.lgresearch.ai/), Magok, Seoul, Korea.
-  * _Research Scientist_, Oct 2024 – Aug 2025
-  * Team: Vision Lab. | Team: Exaone-VL TF
-  * Working on post-training of M-LLMs (SFT and RL-based methods DPO & GRPO)
-  * Exploring vision-language foundation models across perception and reasoning
-  * Results: Achieving SOTA results on AGI benchmarks (MMMU, AI2D, ChartQA, DocQA, etc.) at Jul. 2025, and contributing to deploy the in-house Exaone-4.0-VL models
-* [**Meta Reality Labs.**](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
-  * _Ph.D Research Scientist Intern _, Jul 2023 – Oct 2023
-  * Team: XR Eyes | Manager: Survi Kyal, Mentor: Fengting Yang
-  * Research project: advancving eye tracking production model for Meta Quest Pro.
-  * Method: a self-supervised pre-training for invariant feature learning from large-scale multi-view video data.
-  * Results: Improved KPI metrics (P95, PCD < 4.5) by 9% in the Arcata project.
-* [**Vuno Inc.**](https://www.vuno.co/), Gangnam, Seoul, Korea
-  * _Front-end Developer_, Jun 2017 – Aug 2017
-  * Developed the client interface for an AI software for diagnosis from a chest X-ray.
+* [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
+  *  _Research Scientist_, Oct 2024 ~ Aug 2025
+  *  Post-training multi-modal LLMs (SFT, DPO/GRPO) for vision-language foundation model in _Vision Lab_ and _Exaone VL TF_
+
+* [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
+  *  _Research Scientist Intern_, Jul 2023 ~ Oct 2023
+  * Manager: Survi Kyal, Mentor: Fengting Yang, _in [XR Eyes](https://www.meta.com/ko-kr/blog/quest/orion-ar-glasses-augmented-reality/)_
+
+* [Fast campus.](https://fastcampus.co.kr/), Seoul, South Korea.
+  * _Computer Vision Lecturer_, Mar 2022 ~ Aug 2022
+  * Curriculum Sheet: [Google Spreadsheet](https://bit.ly/440T2ih)
+
+* [Vuno Inc.](https://www.vuno.co/), Seoul, South Korea.
+  * _Front-end Developer_, Jun 2017 ~ Aug 2017
+
+<!--
+* [Meta Reality Labs.](https://about.meta.com/realitylabs/), Burlingame, California, U.S.A.
+  * _Ph.D Research Scientist Intern_, Jul 2023 ~ Oct 2023
+    * Manager: Survi Kyal, Mentor: Fengting Yang
+    * Succeeded to achieve target KPIs of Eye Tracking production model of Meta Queset Pro, Arcata project (XR Eyes)
+-->
+<!--
+    * Succeeded to achieve KPIs of Eye Tracking production model of Arcata project (XR Eyes)
+    * Improved gaze estimation accuracy in production model of Meta Quest using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes
+    * Learning-based analytics research on human behavior for AR/VR device. (XR Eyes)
+    * Improved gaze estimation accuracy in Meta Quest production model using a single POR camera through invariant feature learning for a personalized, explainable ML Eyes model
+    * Increased KPIs (P95, PCD$<$4.5) of ET production model by 9% of Arcata project 
+-->
+<!--
+* [Fast campus.](https://fastcampus.co.kr/), Seoul, South Korea.
+  * _Computer Vision Lecturer_, Mar 2022 ~ Aug 2022
+    * Lecturing on computer vision from classical to state-of-the-art deep learning approaches.
+    * Curriculum Sheet: [Google Spreadsheet](https://bit.ly/440T2ih)
+
+* [Vuno Inc.](https://www.vuno.co/), Seoul, South Korea.
+  * _Front-end Developer_, Jun 2017 ~ Aug 2017
+    * Developed the client/front-end interface for an AI-based software for diagnosis of major abnormalities from a chest X-ray. 
+-->
+
 
 * * *
 <!--
@@ -63,119 +81,150 @@ My primary research interest is in learning visual correspondence and its applic
 
 ## Education
 
-* [**Pohang University of Science and Technology (POSTECH)**](http://www.postech.ac.kr/), Pohang, Korea
-  * _Ph.D., Dep. of Computer Science and Engineering (CSE)_, Sep 2018 – Aug 2024
-  * Advisor: [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
-  * Thesis: _Learning Equivariant Features for Visual Correspondence and Pose Estimation_
-* [**Graz University of Technology (TU Graz)**](https://www.tugraz.at/en/home/), Graz, Austria
-  * Sep 2016 – Feb 2017
-* [**Pohang University of Science and Technology (POSTECH)**](http://www.postech.ac.kr/), Pohang, Korea
-  * Dep. of Computer Science and Engineering (CSE) _, Mar 2013 – Aug 2018
-  * Double Major
+* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
+  *  _M.S./Ph.D._ in Computer Science Engineering (CSE) 
+  * Dissertation: [Equivariant Image Matching and Pose Estimation](./assets/thesis_JongminLee.pdf)
+  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
+  <!-- * Dissertation: Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)]  -->
+
+* _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Mar 2013 ~ Aug 2018)
+  * _B.S._ in Industrial and Management Engineering (IME)
+  * _B.S._ in Computer Science Engineering (CSE) 
+
+
 
 * * *
 
 ## Publications
 
-* **Jongmin Lee**, Minsu Cho, "3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction," in _the Thirty-eighth Annual Conference on Advances in Neural Information Processing Systems **(NeurIPS)**_, 2024.
-* **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, "Learning Rotation-Equivariant Features for Visual Correspondence," in _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023.
-* **Jongmin Lee**, Byungjin Kim, Minsu Cho, "Self-Supervised Equivariant Learning for Oriented Keypoint Detection," in _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022.
-* **Jongmin Lee**, Yoonwoo Jeong, Minsu Cho, "Self-supervised Learning of Image Scale and Orientation Estimation," in _Proceedings of the 32nd British Machine Vision Conference (BMVC)_, 2021.
-* **Jongmin Lee**, Yoonwoo Jeong, Seungwook Kim, Juhong Min, Minsu Cho, "Learning to Distill Convolutional Features Into Compact Local Descriptors," in _Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)_, 2021.
-* Juhong Min, **Jongmin Lee**, Jean Ponce, Minsu Cho, "Learning to Compose Hypercolumns for Semantic Visual Correspondence," in _Proceedings of the European Conference on Computer Vision (ECCV)_, 2020.
-* Juhong Min, **Jongmin Lee**, Jean Ponce, Minsu Cho, "SPair-71k: A Large-scale Benchmark for Semantic Correspondence," arXiv preprint, 2019.
-* Juhong Min, **Jongmin Lee**, Jean Ponce, Minsu Cho, "Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features," in _Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)_, 2019.
-* Paul Hongsuck Seo, **Jongmin Lee**, Deunsol Jung, Bohyung Han, Minsu Cho, "Attentive Semantic Alignment with Offset-Aware Correlation Kernels," in _Proceedings of the European Conference on Computer Vision (ECCV)_, 2018.
-* Min Jung Lee, **Jongmin Lee**, Sanghyun Kim, Sunghyun Cho, Minsu Cho, "Base Frame Selection on Dynamically Exposed Burst for Multi-Image Restoration and Enhancement," in _Image Processing and Image Understanding **(IPIU)**_ 2024.
+<!-- 
+*   Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)] \
+  **Jongmin Lee**, _Ph.D. Thesis_, June 2024.
+ -->
+
+*   [3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction](https://neurips.cc/virtual/2024/poster/93651) [[code](https://cvlab.postech.ac.kr/research/3D_EquiPose/)] \
+  **Jongmin Lee**, Minsu Cho, in _NeurIPS 2024_.
+    
+<!-- 
+*   Burst Image Enhancement with Non-Uniform Exposures  \
+  **Jongmin Lee**, Min Jung Lee, Sanghyun Kim, Woohyeok Kim, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _submitted_.
+ -->
+<!-- 
+*   Multiply Degraded Burst Image Enhancement via Robust Base Frame Selection \
+  **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
+ -->
+<!-- 
+*   [Base Frame Selection on Dynamically Exposed Burst](./assets/pdf/IPIU2024.pdf) [[code](./assets/pdf/IPIU2024.pdf)] \
+  Min Jung Lee, **Jongmin Lee**, Sanghyun Kim, Sunghyun Cho, Minsu Cho, in _IPIU 2024_.
+ -->
+*   [Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/abs/2303.15472) [[code](https://github.com/bluedream1121/RELF)] \
+  **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _CVPR 2023_.
+
+*   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613) [[code](https://github.com/bluedream1121/REKD)] \
+  **Jongmin Lee**, Byungjin Kim,  Minsu Cho, in _CVPR 2022_.
+
+*   [Self-supervised Learning of Image Scale and Orientation Estimation](https://www.bmva-archive.org.uk/bmvc/2021/conference/papers/paper_0836.html) [[code](https://github.com/bluedream1121/self-sca-ori)] \
+  **Jongmin Lee**, Yoonwoo Jeong,  Minsu Cho, in _BMVC 2021_.
+
+*   [Learning to Distill Convolutional Features Into Compact Local Descriptors](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf) [[code](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf)] \
+  **Jongmin Lee**, Yoonwoo Jeong, Seungwook Kim,  Juhong Min, Minsu Cho, in _WACV 2021_.
+
+*   [Learning to Compose Hypercolumns for Semantic Visual Correspondence](https://arxiv.org/abs/2007.10587) [[code](https://github.com/juhongm999/dhpf)] \
+   Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ECCV 2020_.
+
+*   [SPair-71k: A Large-scale Benchmark for Semantic Correspondence](https://arxiv.org/abs/1908.10543) [[dataset](http://cvlab.postech.ac.kr/research/SPair-71k/)] \
+   Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ArXiv 2019_.
+
+*   [Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features](https://arxiv.org/abs/1908.06537) [[code](https://github.com/juhongm999/hpf)] [[dataset](http://cvlab.postech.ac.kr/research/SPair-71k/)] \
+    Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ICCV 2019_.
+
+*   [Attentive Semantic Alignment with Offset-Aware Correlation Kernels](https://arxiv.org/abs/1808.02128) [[code](https://github.com/bluedream1121/A2Net)] \
+    Paul Hongsuck Seo, **Jongmin Lee**, Deunsol Jung, Bohyung Han, Minsu Cho, in _ECCV 2018_.
 
 * * *
 
 ## Research Projects
 
-* **POSTECH AI Research (PAIR)**, Feb 2024 - Aug 2024
-  * Video summarization with large language models.
-  * Modular reasoning models with LLaVA captioner, LLaMA caption aggregator.
-* **Samsung Advanced Institute of Technology (SAIT)**, Nov 2022 - Jul 2023
-  * Burst image restoration with non-uniform exposure using base frame selection. (ISP)
-* **Samsung Advanced Institute of Technology (SAIT)**, Nov 2021 - Oct 2022
-  * Burst image enhancement in large degradations by noise, blur and shift. (ISP Project)
-* **Samsung Advanced Institute of Technology (SAIT)**, Nov 2020 - Oct 2021
-  * Motion-aware multiple image enhancement under extremely low-light conditions. (ISP)
-* **Kakao Brain**, Nov 2021 - Jul 2023
-  * Efficient equivariant representation learning in deep neural networks.
-* **Image Matching & Visual Localization Challenges**, Jul 2019 – Jun 2023
-  * Joined workshops at CVPR 2022/2023, ICCV 2019/2021, and ECCV 2020.
-  * Relevant links: [Visual Localization Challenges](https://www.visuallocalization.net/) | [Image Matching Workshop](https://image-matching-workshop.github.io/)
+*  **Kakao Brain**,  Nov. 2021 - Jul. 2023 \
+    Efficient equivariant representation learning in deep neural networks.
+
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2022 - Jul. 2023  \
+    Non-uniformly exposed burst image restoration using robust base frame selector.
+
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2021 - Oct. 2022  \
+    Burst image enhancement in an extremely degraded environment by noise, blur and shift.
+        
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2020 - Oct. 2021 \
+    Motion-aware burst image enhancement in the extremely low-light situation.
 
 * * *
 
 
 ## Professional Services
 
-* **Reviewer of international conferences**  
-  Computer Vision and Pattern Recognition (CVPR) 2022 – present  
-  Neural Information Processing Systems (NeurIPS) 2023 – present  
-  International Conference on Computer Vision (ICCV) 2023 – present  
-  International Conference on Learning Representations (ICLR) 2024 – present  
-  International Conference on Machine Learning (ICML) 2024 – present  
-  European Conference on Computer Vision (ECCV) 2022 – present  
-  Winter Conference on Applications of Computer Vision (WACV) 2021 – present  
-  Asian Conference on Comoputer Vision (ACCV) 2024  
-  International Conference on 3D Vision (3DV) 2022  
-  British Machine Vision Conference (BMVC) 2021  
-  Artificial Intelligence and Statistics Conference (AISTATS) 2025  
-  International Conference on Machine Vision Applications (MVA) 2021, 2023  
-  International Conference on Pattern Recognition (ICPR) 2020  
+*  **Reviewer of international conferences** \
+    Computer Vision and Pattern Recognition (CVPR) 2022, 2023, 2024, 2025 \
+    Neural Information Processing Systems (NeurIPS) 2023, 2024, 2025 \
+    International Conference on Computer Vision (ICCV) 2023, 2025 \
+    International Conference on Learning Representations (ICLR) 2024, 2025 \
+    International Conference on Machine Learning (ICML) 2024, 2025 \
+    European Conference on Computer Vision (ECCV) 2022, 2024 \
+    ACM International Conference on Multimedia (ACM MM) 2025 \
+    Asian Conference on Comoputer Vision (ACCV) 2024 \
+    International Conference on 3D Vision (3DV) 2022 \
+    British Machine Vision Conference (BMVC) 2021 \
+    Artificial Intelligence and Statistics Conference (AISTATS) 2025 \
+    Winter Conference on Applications of Computer Vision (WACV) 2021, 2022, 2023, 2024, 2025 \
+    International Conference on Machine Vision Applications (MVA) 2021, 2023 \
+    International Conference on Pattern Recognition (ICPR) 2020 
 
-* **Program committee of international conferences**  
-  Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 – present  
+*  **Program committee of international conferences** \
+    Annual AAAI Conference on Artificial Intelligence (AAAI) 2025, 2026
 
-* **Reviewer of international journals**  
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (2023, 2024)    IF: 24.314  
-  International Journal of Computer Vision (2023, 2024)    IF: 19.500  
-  IEEE Transactions on Image Processing (2022, 2023)    IF: 11.041  
-  Pattern Recognition (2022, 2023)    IF: 8.518  
-  The Visual Computer (2022)    IF: 2.835  
-
+*  **Reviewer of international journals** \
+    IEEE Transactions on Pattern Analysis and Machine Intelligence (2023, 2024) \
+    International Journal of Computer Vision (2023, 2024) \
+    IEEE Transactions on Image Processing (2022, 2023) \
+    Pattern Recognition (2022, 2023) \
+    The Visual Computer (2022) 
+    
 * * *
 
 ## Honors and Awards
 
-* **Citations of Publications (2025):** +500 citations in 9 papers in [Google Scholar Profile](https://scholar.google.com/citations?user=WVVqJX8AAAAJ)
-* **Open Source Contributions (2025):** +300 stars in 10 projects in [Github Profile](https://github.com/bluedream1121)
-* **Qualcomm AI Innovation Fellowship Finalist (2023)**: Recognized as a finalist for this prestigious fellowship, reflecting exceptional innovation and potential in AI research. Awarded a grant of $1,000 by [_Qualcomm Technologies Inc._](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists)
-* **BK21 Outstanding Paper Award (2022)**: Awarded for distinguished academic publication in the field of computer science engineering, Accompanied by a $500 grant.
-* **Global Ph.D. Fellowship (2019–2024)**: Awarded by the [_National Research Foundation of Korea (NRF)_](https://www.nrf.re.kr/eng/page/4a5d0ace-9cbb-4d21-9b18-92c8464aa23b), this significant fellowship ($120,000 grant) supports outstanding doctoral students demonstrating potential for becoming global leaders in their fields.
-* **Excellent Research Award (2018)**: Honored by POSTECH Computer Science Engineering Department for superior research projects during the [Undergraduate Research Program](https://lms.postech.ac.kr/Course.do?cmd=viewCoursePlan&gubun=pageprint&courseDTO.courseId=20180900140075401661259).
-* **SK Hynix Scholarship (2015)**: Recognized for academic excellence and potential in technological innovation with a fellowship from the [SK Hynix Fellowship Program](https://vision.postech.ac.kr/web/?section=&top=support&sub=story&tab=&category=&state=&item=&keyword=&present_group_num=&present_page_num=&key=detail&code=225).
+* **Qualcomm innovation fellowship Korea finalist**, [ Qualcomm Technologies Inc. ](https://www.qualcomm.com/research/university-relations/innovation-fellowship/finalists), 2023.
+
+* **BK21 outstanding paper award**, [ POSTECH CSE ](https://ecse.postech.ac.kr/), 2022.
+
+* **Global Ph.D fellowship**,  [_National Research Foundation of Korea (NRF)_](https://www.nrf.re.kr/eng/page/4a5d0ace-9cbb-4d21-9b18-92c8464aa23b), 2019 -- Now.
+    
+* **POSTECH CSE research award (2nd place)**, [_Undergraduate Research Program_](https://cse.postech.ac.kr/2018-1%ed%95%99%ea%b8%b0-%ea%b3%bc%ec%a0%9c%ec%97%b0%ea%b5%ac%eb%b0%9c%ed%91%9c-%ea%b0%9c%ec%b5%9c-%eb%b0%8f-%ec%8b%9c%ec%83%81%ec%8b%9d/?pageds=1&p_id=111&e=%EA%B3%BC%EC%A0%9C%EC%97%B0%EA%B5%AC%EB%B0%9C%ED%91%9C&k=&c=), _POSTECH Computer Science Engineering Department_, 2018.
+    
+* **SK Hynix scholarship**, [SK Hynix Fellowship Program](http://times.postech.ac.kr/news/articleView.html?idxno=7120), _POSTECH_, 2015.
 
 * * *
 
 ## Invited Talks
 
-* "Toward Spatial Intelligence: Visual Geometry & 3D Vision", KAIST AI, Seoul, Korea, September 2025. Host: Seungryong Kim
-* "3D Equivariance: Learning Equivariant Features for Visual Correspondence and Pose Estimation", _Technion - Israel Institute of Technology_, Isreal, September 2024. Host: Or Litany
-* "Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features", _ICCV 2019 Paper Day with Naver_, Hotel Andaz Gangnam, Seoul, Korea, October 2019.
-* "Where is semantic correspondence? - The general image matching problem in deep learning era", _Hyundai Motors AI Research Lab seminar_, Pohang, Korea, September 2019.
-* "Semantic Alignment - Find Semantic Dense Correspondence," _Naver corp._, Pangyo, Korea, October 2018. [Youtube link (Korean)](https://www.youtube.com/watch?v=4OozCgE95P8)
+* Toward Spatial Intelligence: Visual Geometry & 3D Vision, _KAIST AI_, Seoul, Korea, September 2025. (Host: Seungryong Kim)
+
+* 3D Equivariance: Learning Equivariant Features for Visual Correspondence and Pose Estimation, _Technion - Israel Institute of Technology_, Haifa, Isreal, September 2024. (Host: Or Litany)
+    
+* Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features, _ICCV 2019 Paper Day with Naver_, Hotel Andaz Gangnam, Seoul, Korea, October 2019.
+
+* Where is semantic correspondence? - The general image matching problem in deep learning era, _Hyundai Motors AI Lab seminar_, Pohang, Korea, September 2019.
+
+* Semantic Alignment - Find Semantic Dense Correspondence, _Naver corp._, Pangyo, Korea, October 2018. [[Youtube link (Korean)](https://www.youtube.com/watch?v=4OozCgE95P8)]
 
 * * *
 
 ## Lectures
 
-**Instructor**
-* CS 59162 Deep Learning @ CAU  (Fall 2025)
-* CS 53744 Machine Learning Project @ CAU  (Fall 2025)
-* CS 40458 Automata and Formal Languages @ CAU  (Fall 2025)
-* **Lecturer** in online platform [**Fast campus.**](https://fastcampus.co.kr/), Seoul, Korea  (Mar 2022 – Aug 2022)
-  * Lectured on computer vision from classical to state-of-the-art deep learning approaches.
-  * Curriculum Sheet: [Google Spreadsheet](https://bit.ly/440T2ih)
+* CS 59162 Deep Learning (Fall 2025)
 
-**Teaching assistant**
-* Artificial Intelligence & Data Science (CSED537) @ POSTECH  (Spring semester 2023)
-* Introduction to Deep Learning (CSED490W) @ POSTECH  (Fall semester 2019)
-* POSCO AI expert training course  (July 2019 – Aug 2019)
-* Automata & Formal Languages (CSED341) @ POSTECH  (Fall semester 2018)
+* CS 53744 Machine Learning Project (Fall 2025)
+
+* CS 40458 Automata and Formal Languages (Fall 2025)
 
 * * *
 
@@ -210,12 +259,22 @@ task-specific fine-tuning for complex multi-modal applications.
 <!-- 
 ## Education
 
-* [**Pohang University of Science and Technology (POSTECH)**](http://www.postech.ac.kr/), Pohang, Korea
-  * _Ph.D., Dep. of Computer Science and Engineering (CSE)_, Sep 2018 – Aug 2024
-  * Advisor: [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/)
-  * Thesis: _Learning Equivariant Features for Visual Correspondence and Pose Estimation_
-* [**Graz University of Technology (TU Graz)**](https://www.tugraz.at/en/home/), Graz, Austria
-  * Sep 2016 – Feb 2017
-* [**Pohang University of Science and Technology (POSTECH)**](http://www.postech.ac.kr/), Pohang, Korea
-  * Dep. of Computer Science and Engineering (CSE) _, Mar 2013 – Aug 2018
-  * Double Major
+- [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/), Pohang, Korea (Sep 2018 -- now)
+  - Ph.D Student, Department of [Computer Science and Engineering](https://cse.postech.ac.kr/)
+  - Advisor: Prof. [Minsu Cho](http://cvlab.postech.ac.kr/~mcho/) 
+
+- [Graz University of Technology (TU Graz)](https://www.tugraz.at/en/home/), Graz, Austria (Sep 2016 -- Feb 2017)
+  - Visiting Student
+
+- [Pohang University of Science and Technology (POSTECH)](http://www.postech.ac.kr/), Pohang, Korea (Mar 2013 -- Aug 2018)
+  - B.S., Department of [Industrial and Management Engineering](https://ime.postech.ac.kr/)
+  - B.S., Department of [Computer Science and Engineering](https://cse.postech.ac.kr/)	
+  - Double Major
+
+
+
+```
+
+```
+
+-->
