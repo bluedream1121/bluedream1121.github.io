@@ -163,29 +163,29 @@ My primary research interest is in learning visual correspondence and its applic
 ## Professional Services
 
 *  **Reviewer of international conferences** \
-    Computer Vision and Pattern Recognition (CVPR) 2022, 2023, 2024, 2025 \
-    Neural Information Processing Systems (NeurIPS) 2023, 2024, 2025 \
-    International Conference on Computer Vision (ICCV) 2023, 2025 \
-    International Conference on Learning Representations (ICLR) 2024, 2025 \
-    International Conference on Machine Learning (ICML) 2024, 2025 \
-    European Conference on Computer Vision (ECCV) 2022, 2024 \
+    Computer Vision and Pattern Recognition (CVPR) 2022 -- present \
+    Neural Information Processing Systems (NeurIPS) 2023 -- present \
+    International Conference on Computer Vision (ICCV) 2023 -- present \
+    International Conference on Learning Representations (ICLR) 2024 -- present \
+    International Conference on Machine Learning (ICML) 2024 -- present \
+    European Conference on Computer Vision (ECCV) 2022 -- present \
+    Winter Conference on Applications of Computer Vision (WACV) 2021 -- present \
     ACM International Conference on Multimedia (ACM MM) 2025 \
     Asian Conference on Comoputer Vision (ACCV) 2024 \
     International Conference on 3D Vision (3DV) 2022 \
     British Machine Vision Conference (BMVC) 2021 \
     Artificial Intelligence and Statistics Conference (AISTATS) 2025 \
-    Winter Conference on Applications of Computer Vision (WACV) 2021, 2022, 2023, 2024, 2025 \
     International Conference on Machine Vision Applications (MVA) 2021, 2023 \
-    International Conference on Pattern Recognition (ICPR) 2020 
+    International Conference on Pattern Recognition (ICPR) 2020
 
 *  **Program committee of international conferences** \
-    Annual AAAI Conference on Artificial Intelligence (AAAI) 2025, 2026
+    Annual AAAI Conference on Artificial Intelligence (AAAI) 2025 -- present
 
 *  **Reviewer of international journals** \
-    IEEE Transactions on Pattern Analysis and Machine Intelligence (2023, 2024) \
-    International Journal of Computer Vision (2023, 2024) \
-    IEEE Transactions on Image Processing (2022, 2023) \
-    Pattern Recognition (2022, 2023) \
+    IEEE Transactions on Pattern Analysis and Machine Intelligence (2023 -- present) \
+    International Journal of Computer Vision (2023 -- present) \
+    IEEE Transactions on Image Processing (2022 -- present) \
+    Pattern Recognition (2022 -- present) \
     The Visual Computer (2022) 
     
 * * *
@@ -219,6 +219,10 @@ My primary research interest is in learning visual correspondence and its applic
 * * *
 
 ## Lectures
+
+* CS 39350 Computer Vision Applications (Spring 2026)
+
+* CS 38714 Creative Design (Spring 2026)
 
 * CS 59162 Deep Learning (Fall 2025)
 
