@@ -206,6 +206,8 @@ My primary research interest is in learning visual correspondence and its applic
 
 ## Invited Talks
 
+* Toward Spatial Intelligence, _Seoul National University (SNU) IPAI Seminar_, Seoul, Korea, November 2025. (Host: Jaesik Park)
+
 * Toward Spatial Intelligence: Visual Geometry & 3D Vision, _KAIST AI_, Seoul, Korea, September 2025. (Host: Seungryong Kim)
 
 * 3D Equivariance: Learning Equivariant Features for Visual Correspondence and Pose Estimation, _Technion - Israel Institute of Technology_, Haifa, Isreal, September 2024. (Host: Or Litany)
