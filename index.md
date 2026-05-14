@@ -6,6 +6,8 @@ I am an assistant professor in the school of Computer Science & Engineering ([CS
 
 I received my Ph.D. degree in Computer Science and Engineering (CSE) at [POSTECH](https://www.postech.ac.kr/), South Korea, where I was a member of the [Computer Vision Lab](https://cvlab.postech.ac.kr/lab/) working with [Prof. Minsu Cho](http://cvlab.postech.ac.kr/~mcho/).
 
+My research interests are detailed [here](https://bluedream1121.github.io/spatial-intelligence-lab/research/), and recent publications can be found [here](https://bluedream1121.github.io/spatial-intelligence-lab/publication/).
+
 
 
 <!--
@@ -170,7 +172,7 @@ My primary research interest is in learning visual correspondence and its applic
     International Conference on Machine Learning (ICML) 2024 -- present \
     European Conference on Computer Vision (ECCV) 2022 -- present \
     Winter Conference on Applications of Computer Vision (WACV) 2021 -- present \
-    ACM International Conference on Multimedia (ACM MM) 2025 \
+    ACM International Conference on Multimedia (ACM MM) 2025 -- present \
     Asian Conference on Comoputer Vision (ACCV) 2024 \
     International Conference on 3D Vision (3DV) 2022 \
     British Machine Vision Conference (BMVC) 2021 \
