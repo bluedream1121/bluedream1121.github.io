@@ -20,6 +20,98 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 
 * * *
 
+<!--
+My primary research interest is in learning visual correspondence and its applications. I am also interested in equivariant representation learning for invariant feature extraction.
+
+## Research Interests
+
+*   Image Matching (Visual Corrspondence)
+*   Deep Local Feature Extraction
+*   Wide-Baseline Matching
+*   Semantic Correspondence
+*   Self-Supervised Learning
+*   Geometric Deep Learning
+*   Equivariant Representation Learning
+*   Extremely Low-Light Image Enhancement
+*   Burst Image Enhancement/Restoration
+
+* * *
+-->
+
+## Education
+
+* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
+  *  _M.S./Ph.D._ in Computer Science Engineering (CSE) 
+  * Dissertation: [Equivariant Image Matching and Pose Estimation](./assets/thesis_JongminLee.pdf)
+  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
+  <!-- * Dissertation: Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)]  -->
+
+* _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Mar 2013 ~ Aug 2018)
+  * _B.S._ in Industrial and Management Engineering (IME)
+  * _B.S._ in Computer Science Engineering (CSE) 
+
+
+
+* * *
+
+## Selected Publications <small style="font-size:0.55em; font-weight:normal;">(<a href="https://bluedream1121.github.io/spatial-intelligence-lab/publications/">full publication list</a>)</small> {#selected-publications}
+
+<!-- 
+*   Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)] \
+  **Jongmin Lee**, _Ph.D. Thesis_, June 2024.
+ -->
+
+*   Pair-Relative Partial Equivariance for Rotation-Robust Keypoint Descriptor Matching \
+  **Jongmin Lee**, in _WACV 2027_ (Round 1 accept).
+
+*   [Beyond Family Labels: A Taxonomic Ornstein–Uhlenbeck Prior for Avian 3D Shape Recovery](https://neurips.cc/virtual/2026/oral/151997) \
+  Yunchan Jeon\*, SooGon Kim\*, Seungwook Kim, CheolWon Lee, **Jongmin Lee**, in _NeurIPS 2026_. \
+  <strong class="highlight-red">Oral Presentation</strong> (0.36% acceptance rate)
+
+*   [ProxySearch: Decoupled Inference-Time Scaling for Diffusion Models via Asymmetric Noise-Rank Transfer](https://neurips.cc/virtual/2026/loc/sydney/poster/151922) \
+  Seungwook Kim, **Jongmin Lee**, in _NeurIPS 2026_.
+
+*   [3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction](https://neurips.cc/virtual/2024/poster/93651) [[code](https://cvlab.postech.ac.kr/research/3D_EquiPose/)] \
+  **Jongmin Lee**, Minsu Cho, in _NeurIPS 2024_.
+    
+<!-- 
+*   Burst Image Enhancement with Non-Uniform Exposures  \
+  **Jongmin Lee**, Min Jung Lee, Sanghyun Kim, Woohyeok Kim, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _submitted_.
+ -->
+<!-- 
+*   Multiply Degraded Burst Image Enhancement via Robust Base Frame Selection \
+  **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
+ -->
+<!-- 
+*   [Base Frame Selection on Dynamically Exposed Burst](./assets/pdf/IPIU2024.pdf) [[code](./assets/pdf/IPIU2024.pdf)] \
+  Min Jung Lee, **Jongmin Lee**, Sanghyun Kim, Sunghyun Cho, Minsu Cho, in _IPIU 2024_.
+ -->
+*   [Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/abs/2303.15472) [[code](https://github.com/bluedream1121/RELF)] \
+  **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _CVPR 2023_.
+
+*   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613) [[code](https://github.com/bluedream1121/REKD)] \
+  **Jongmin Lee**, Byungjin Kim,  Minsu Cho, in _CVPR 2022_.
+
+*   [Self-supervised Learning of Image Scale and Orientation Estimation](https://www.bmva-archive.org.uk/bmvc/2021/conference/papers/paper_0836.html) [[code](https://github.com/bluedream1121/self-sca-ori)] \
+  **Jongmin Lee**, Yoonwoo Jeong,  Minsu Cho, in _BMVC 2021_.
+
+*   [Learning to Distill Convolutional Features Into Compact Local Descriptors](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf) [[code](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf)] \
+  **Jongmin Lee**, Yoonwoo Jeong, Seungwook Kim,  Juhong Min, Minsu Cho, in _WACV 2021_.
+
+*   [Learning to Compose Hypercolumns for Semantic Visual Correspondence](https://arxiv.org/abs/2007.10587) [[code](https://github.com/juhongm999/dhpf)] \
+   Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ECCV 2020_.
+
+*   [SPair-71k: A Large-scale Benchmark for Semantic Correspondence](https://arxiv.org/abs/1908.10543) [[dataset](http://cvlab.postech.ac.kr/research/SPair-71k/)] \
+   Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ArXiv 2019_.
+
+*   [Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features](https://arxiv.org/abs/1908.06537) [[code](https://github.com/juhongm999/hpf)] [[dataset](http://cvlab.postech.ac.kr/research/SPair-71k/)] \
+    Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ICCV 2019_.
+
+*   [Attentive Semantic Alignment with Offset-Aware Correlation Kernels](https://arxiv.org/abs/1808.02128) [[code](https://github.com/bluedream1121/A2Net)] \
+    Paul Hongsuck Seo, **Jongmin Lee**, Deunsol Jung, Bohyung Han, Minsu Cho, in _ECCV 2018_.
+
+* * *
+
 ## Work Experience
 
 * [LG AI Research](https://about.meta.com/realitylabs/), Seoul, South Korea.
@@ -63,104 +155,6 @@ My research aims to advance spatial  intelligence (spatial AI) by building on th
 
 
 * * *
-<!--
-My primary research interest is in learning visual correspondence and its applications. I am also interested in equivariant representation learning for invariant feature extraction.
-
-## Research Interests
-
-*   Image Matching (Visual Corrspondence)
-*   Deep Local Feature Extraction
-*   Wide-Baseline Matching
-*   Semantic Correspondence
-*   Self-Supervised Learning
-*   Geometric Deep Learning
-*   Equivariant Representation Learning
-*   Extremely Low-Light Image Enhancement
-*   Burst Image Enhancement/Restoration
-
-* * *
--->
-
-## Education
-
-* _Ph.D._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Sep 2018 ~ Aug 2024)
-  *  _M.S./Ph.D._ in Computer Science Engineering (CSE) 
-  * Dissertation: [Equivariant Image Matching and Pose Estimation](./assets/thesis_JongminLee.pdf)
-  * Advisor: [Prof. Minsu Cho](https://cvlab.postech.ac.kr/~mcho/)
-  <!-- * Dissertation: Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)]  -->
-
-* _B.S._ in [POSTECH](https://www.postech.ac.kr/eng/), Pohang, South Korea. (Mar 2013 ~ Aug 2018)
-  * _B.S._ in Industrial and Management Engineering (IME)
-  * _B.S._ in Computer Science Engineering (CSE) 
-
-
-
-* * *
-
-## Publications
-
-<!-- 
-*   Learning Equivariant Features for Visual Correspondence and Pose Estimation [[paper](./assets/thesis_JongminLee.pdf)] [[video](https://bluedream1121.github.io/)] \
-  **Jongmin Lee**, _Ph.D. Thesis_, June 2024.
- -->
-
-*   [3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction](https://neurips.cc/virtual/2024/poster/93651) [[code](https://cvlab.postech.ac.kr/research/3D_EquiPose/)] \
-  **Jongmin Lee**, Minsu Cho, in _NeurIPS 2024_.
-    
-<!-- 
-*   Burst Image Enhancement with Non-Uniform Exposures  \
-  **Jongmin Lee**, Min Jung Lee, Sanghyun Kim, Woohyeok Kim, Jaesung Rim, Sunghyun Cho, Minsu Cho, in _submitted_.
- -->
-<!-- 
-*   Multiply Degraded Burst Image Enhancement via Robust Base Frame Selection \
-  **Jongmin Lee**, Sanghyun Kim, Min Jung Lee, Minsu Cho, in _submitted_.
- -->
-<!-- 
-*   [Base Frame Selection on Dynamically Exposed Burst](./assets/pdf/IPIU2024.pdf) [[code](./assets/pdf/IPIU2024.pdf)] \
-  Min Jung Lee, **Jongmin Lee**, Sanghyun Kim, Sunghyun Cho, Minsu Cho, in _IPIU 2024_.
- -->
-*   [Learning Rotation-Equivariant Features for Visual Correspondence](https://arxiv.org/abs/2303.15472) [[code](https://github.com/bluedream1121/RELF)] \
-  **Jongmin Lee**, Byungjin Kim, Seungwook Kim, Minsu Cho, in _CVPR 2023_.
-
-*   [Self-Supervised Equivariant Learning for Oriented Keypoint Detection](https://arxiv.org/abs/2204.08613) [[code](https://github.com/bluedream1121/REKD)] \
-  **Jongmin Lee**, Byungjin Kim,  Minsu Cho, in _CVPR 2022_.
-
-*   [Self-supervised Learning of Image Scale and Orientation Estimation](https://www.bmva-archive.org.uk/bmvc/2021/conference/papers/paper_0836.html) [[code](https://github.com/bluedream1121/self-sca-ori)] \
-  **Jongmin Lee**, Yoonwoo Jeong,  Minsu Cho, in _BMVC 2021_.
-
-*   [Learning to Distill Convolutional Features Into Compact Local Descriptors](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf) [[code](https://openaccess.thecvf.com/content/WACV2021/papers/Lee_Learning_to_Distill_Convolutional_Features_Into_Compact_Local_Descriptors_WACV_2021_paper.pdf)] \
-  **Jongmin Lee**, Yoonwoo Jeong, Seungwook Kim,  Juhong Min, Minsu Cho, in _WACV 2021_.
-
-*   [Learning to Compose Hypercolumns for Semantic Visual Correspondence](https://arxiv.org/abs/2007.10587) [[code](https://github.com/juhongm999/dhpf)] \
-   Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ECCV 2020_.
-
-*   [SPair-71k: A Large-scale Benchmark for Semantic Correspondence](https://arxiv.org/abs/1908.10543) [[dataset](http://cvlab.postech.ac.kr/research/SPair-71k/)] \
-   Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ArXiv 2019_.
-
-*   [Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features](https://arxiv.org/abs/1908.06537) [[code](https://github.com/juhongm999/hpf)] [[dataset](http://cvlab.postech.ac.kr/research/SPair-71k/)] \
-    Juhong Min, **Jongmin Lee**, Jean Ponce,  Minsu Cho, in _ICCV 2019_.
-
-*   [Attentive Semantic Alignment with Offset-Aware Correlation Kernels](https://arxiv.org/abs/1808.02128) [[code](https://github.com/bluedream1121/A2Net)] \
-    Paul Hongsuck Seo, **Jongmin Lee**, Deunsol Jung, Bohyung Han, Minsu Cho, in _ECCV 2018_.
-
-* * *
-
-## Research Projects
-
-*  **Kakao Brain**,  Nov. 2021 - Jul. 2023 \
-    Efficient equivariant representation learning in deep neural networks.
-
-*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2022 - Jul. 2023  \
-    Non-uniformly exposed burst image restoration using robust base frame selector.
-
-*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2021 - Oct. 2022  \
-    Burst image enhancement in an extremely degraded environment by noise, blur and shift.
-        
-*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2020 - Oct. 2021 \
-    Motion-aware burst image enhancement in the extremely low-light situation.
-
-* * *
-
 
 ## Professional Services
 
@@ -191,6 +185,23 @@ My primary research interest is in learning visual correspondence and its applic
     The Visual Computer (2022) 
     
 * * *
+
+## Research Projects
+
+*  **Kakao Brain**,  Nov. 2021 - Jul. 2023 \
+    Efficient equivariant representation learning in deep neural networks.
+
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2022 - Jul. 2023  \
+    Non-uniformly exposed burst image restoration using robust base frame selector.
+
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2021 - Oct. 2022  \
+    Burst image enhancement in an extremely degraded environment by noise, blur and shift.
+        
+*  **Samsung Advanced Institute of Technology (SAIT)**, Nov. 2020 - Oct. 2021 \
+    Motion-aware burst image enhancement in the extremely low-light situation.
+
+* * *
+
 
 ## Honors and Awards
 

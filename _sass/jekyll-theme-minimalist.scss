@@ -76,7 +76,7 @@ ul.link:last-child {
 }
 
 .wrapper {
-  width:860px;
+  max-width:950px;
   margin: 0 auto;
 }
 
@@ -174,7 +174,7 @@ strong {
 }
 
 section {
-  width: 610px;
+  width: calc(100% - 250px);
   float:right;
   padding-bottom:30px;
 }

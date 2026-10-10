@@ -3,6 +3,16 @@
 
 @import "jekyll-theme-minimalist";
 
+.highlight-red {
+  color: #c0392b;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  .highlight-red {
+    color: #e06c64;
+  }
+}
+
 .img-circle {
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
